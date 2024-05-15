@@ -92,7 +92,7 @@ function remove_email_injection($field = FALSE) {
                 <div id="contact_form">
 				<?php if($form_complete === FALSE): ?>
                 <p>Send me a Message...</p>
-                <form method="post" name="contact" action="contact.phtml" id="comments_form">
+                <form method="post" name="contact" action="contact.php" id="comments_form">
 					
 					<label for="fullname">Name:</label> <input type="text" id="fullname" name="fullname" class="validate-subject required input_field" value="<?php echo isset($_POST['fullname'])? $_POST['fullname'] : ''; ?>" /><?php if(in_array('fullname', $validation)): ?><span class="error"><?php echo $error_messages['fullname']; ?></span><?php endif; ?>
 					<div class="cleaner h10"></div>

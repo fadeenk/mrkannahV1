@@ -15,14 +15,14 @@
    	<div class="middle_box">
         	<h2>Another New Page</h2>
             <img src="images/paper.png" alt="Image 01" class="float_l" />
-            <p>Added <a href="arduino.phtml">arduino</a> page for some of my arduino projects.</p>
-        	<a href="news-3.phtml" class="mb_more">More</a>
+            <p>Added <a href="arduino.php">arduino</a> page for some of my arduino projects.</p>
+        	<a href="news-3.php" class="mb_more">More</a>
         </div>
         <div class="middle_box">
         	<h2>Old Project Done!</h2>
             <img src="images/screen.png" alt="Image 02" class="float_l" />
             <p>The Mouse Picker is ready for use!.</p>
-        	<a href="news-2.phtml" class="mb_more">More</a>
+        	<a href="news-2.php" class="mb_more">More</a>
         </div>
         
         <div id="slider-wrapper">
@@ -35,7 +35,7 @@
                 <a href="http://casuclub.tk/" title="CASU Club"><img src="images/slider/06.jpg" alt="CASU Club" /></a>
                 <a href="samples/projectx/" title="Project X"><img src="images/slider/07.jpg" alt="Project X" /></a>
                 <a href="https://chrome.google.com/webstore/detail/youtube-redirector/fnlklbjlpkkdnelohembgpdahpfpfcbp" title="YouTube Redirector"><img src="images/slider/08.jpg" alt="YouTube Redirector" /></a>
-                <a href="news-2.phtml" title="Mouse Picker"><img src="images/slider/09.jpg" alt="Mouse Picker" /></a>
+                <a href="news-2.php" title="Mouse Picker"><img src="images/slider/09.jpg" alt="Mouse Picker" /></a>
             </div>
         </div>
             <div class="cleaner"></div>

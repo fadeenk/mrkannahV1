@@ -2,16 +2,16 @@
     	<div class="col_4">
         	<h5>Pages</h5>
             <ul class="footer_list">
-            	<li><a href="index.phtml">Home</a></li>
-                <li><a href="bio.phtml">Biography</a></li>
-                <li><a href="portfolio.phtml">Portfolio</a></li>
-				<li><a href="volunteer.phtml">Volunteering</a></li>
-                <li><a href="awards.phtml">Awards</a></li>
-                <li><a href="resume.phtml">Resume</a></li>
+            	<li><a href="index.php">Home</a></li>
+                <li><a href="bio.php">Biography</a></li>
+                <li><a href="portfolio.php">Portfolio</a></li>
+				<li><a href="volunteer.php">Volunteering</a></li>
+                <li><a href="awards.php">Awards</a></li>
+                <li><a href="resume.php">Resume</a></li>
 				<!--
                 <li><a href="http://blog.mrkannah.com/">Blog</a></li>
 				-->
-                <li><a href="contact.phtml">Contact</a></li>
+                <li><a href="contact.php">Contact</a></li>
 			</ul>
         </div>
         <div class="col_4">
@@ -32,9 +32,9 @@
         <div class="col_4">
         	<h5>News</h5>
             <ul class="twitter_post">
-                <li>Old Project Done!<br/><a href="news-2.phtml">More Details...</a></li>
-				<li>Another new Page Added<br/><a href="news-3.phtml">More Details...</a></li>
-	            <li>New Page Added.<br/><a href="news-1.phtml">More Details...</a></li>
+                <li>Old Project Done!<br/><a href="news-2.php">More Details...</a></li>
+				<li>Another new Page Added<br/><a href="news-3.php">More Details...</a></li>
+	            <li>New Page Added.<br/><a href="news-1.php">More Details...</a></li>
 			</ul>
         </div>
         <div class="col_4 col_l">

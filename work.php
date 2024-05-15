@@ -19,7 +19,7 @@
             <h2> </h2>        
             <img src="images/presentation.png" alt="Image 01" class="float_l" />
             <p>Some of the many websites that I made.</p>
-        	<a href="sites.phtml" class="mb_more2">Details</a>
+        	<a href="sites.php" class="mb_more2">Details</a>
         </div></div>
         <div class="col_3">
         <h4 align="center">WebTools</h4>
@@ -27,7 +27,7 @@
             <h2> </h2>
             <img src="images/tools.png" alt="Image 01" class="float_l" />
             <p>Some tools I created for online use.</p>
-        	<a href="tools.phtml" class="mb_more2">Details</a>
+        	<a href="tools.php" class="mb_more2">Details</a>
         </div></div>
         <div class="col_3 col_l">
         <h4 align="center">Graphics</h4>
@@ -35,7 +35,7 @@
             <h2> </h2>
             <img src="images/images.png" alt="Image 01" class="float_l" />
             <p>Few graphics that I created.</p>
-        	<a href="graphics.phtml" class="mb_more2">Details</a>
+        	<a href="graphics.php" class="mb_more2">Details</a>
         </div></div>
         <div style="clear:both;"></div><br />
         <div class="col_3">
@@ -44,7 +44,7 @@
             <h2> </h2>
             <img src="images/box.png" alt="Image 01" class="float_l" />
             <p>Random other things that I did.</p>
-        	<a href="others.phtml" class="mb_more2">Details</a>
+        	<a href="others.php" class="mb_more2">Details</a>
         </div></div>
         
         <div class="col_3">
@@ -53,7 +53,7 @@
             <h2> </h2>
             <img src="images/arduino.png" alt="Image 01" class="float_l" />
             <p>Some of my arduino projects.</p>
-        	<a href="arduino.phtml" class="mb_more2">Details</a>
+        	<a href="arduino.php" class="mb_more2">Details</a>
         </div></div>
                 <div class="cleaner"></div>
             </div>

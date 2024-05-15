@@ -15,7 +15,7 @@
     	<div id="templatemo_main">
            <h2>New Page</h2>
            <p>Due to all the new software that I am working on, I needed a place to put it in which resulted in creating a new page.</p>
-           <p>The page is called <a href="tools.phtml">WebTools</a> because it will be containing all of my web utilites. Some of those tools will be google chrome exclusive, others will require additional equipment (LeapMotion device) and others will work on most internet browsers and will require nothing else.</p>
+           <p>The page is called <a href="tools.php">WebTools</a> because it will be containing all of my web utilites. Some of those tools will be google chrome exclusive, others will require additional equipment (LeapMotion device) and others will work on most internet browsers and will require nothing else.</p>
            <p>Keep checking the page for new software.</p>
          	<div class="cleaner"></div>
         </div> <!-- end of main -->

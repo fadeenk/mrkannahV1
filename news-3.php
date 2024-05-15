@@ -15,7 +15,7 @@
     	<div id="templatemo_main">
            <h2>Another New Page</h2>
            <p>This page was need due to the lack of a place to put my arduino projects on.</p>
-           <p>The page is called <a href="arduino.phtml">Arduino Projects</a> because it has my arduino projects. Some of those The page will only include a description of the project and a video. The information on how to do the projects yourself is included in the video description.</p>
+           <p>The page is called <a href="arduino.php">Arduino Projects</a> because it has my arduino projects. Some of those The page will only include a description of the project and a video. The information on how to do the projects yourself is included in the video description.</p>
            <p>Keep checking the page for new projects.</p>
          	<div class="cleaner"></div>
         </div> <!-- end of main -->
