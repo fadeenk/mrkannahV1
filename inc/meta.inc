@@ -1,0 +1,3 @@
+<meta name="keywords" content="Fadee's Portfolio, Fadee, Kannah, Portfolio, Fadee Kannah, website, about me, biography, awards, resume, dr., dr. alaa, dr. alaa kana, dr. kana, alaa kana, mobile, dr. yacoub, Brian Allen Carpet Cleaning, CHES" />
+<meta name="description" content="Fadee Kannah's Website. My website includes includes my resume. contact information, volunteering, awards, a short biography, work samples and mauch more about me." />
+<link rel="shortcut icon" href="favicon.ico">

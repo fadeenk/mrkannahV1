@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+	
+	<config
+		folder="samples/graphics/"
+		enable_fullscreen="true"
+		drag_speed="2.4"	
+
+		thumbnail_complete_fillup="false"
+		thumbnail_random_scale="false"
+		thumbnail_black_white="true"
+		thumbnail_size="150"
+		thumbnail_gap="1"
+		
+		photo_border_size="10"
+		photo_border_color="#FFFFFF"
+		
+		close_button="true"
+		previous_button="true"
+		next_button="true"
+		
+		description="true"
+		description_bg_color="#000000"
+		description_bg_alpha="0.7"
+		css_file="style.css"
+		tween_duration="0.5">
+	</config>
+	
+	
+<photo>
+<thumbnail>s_photo_1.png</thumbnail>
+<filename>photo_1.jpg</filename>
+<description><![CDATA[<p class="subtitle">Metalic F</p><p>A design inspired by the iPhone cloud icon.</p>]]></description>
+</photo>
+<photo>
+<thumbnail>s_photo_2.png</thumbnail>
+<filename>photo_2.jpg</filename>
+<description><![CDATA[<p class="subtitle">Green Metalic Alvan</p><p>A design inspired by the iPhone cloud icon with a colorful metal background.</p>]]></description>
+</photo>
+<photo>
+<thumbnail>s_photo_3.png</thumbnail>
+<filename>photo_3.jpg</filename>
+<description><![CDATA[<p class="subtitle">Green Neon A</p><p>A neon design with a background inspired by Skyrim logo.</p>]]></description>
+</photo>
+<photo>
+<thumbnail>s_photo_4.png</thumbnail>
+<filename>photo_4.jpg</filename>
+<description><![CDATA[<p class="subtitle">Red Neon F</p><p>A neon design with a background inspired by Skyrim logo.</p>]]></description>
+</photo>
+<photo>
+<thumbnail>s_photo_5.png</thumbnail>
+<filename>photo_5.jpg</filename>
+<description><![CDATA[<p class="subtitle">Blue Neon K</p><p>A neon design with a background inspired by Skyrim logo.</p>]]></description>
+</photo>
+<photo>
+<thumbnail>s_photo_6.png</thumbnail>
+<filename>photo_6.jpg</filename>
+<description><![CDATA[<p class="subtitle">Pink Neon R</p><p>A neon design with a background inspired by Skyrim logo.</p>]]></description>
+</photo>
+<photo>
+<thumbnail>s_photo_7.png</thumbnail>
+<filename>photo_7.jpg</filename>
+<description><![CDATA[<p class="subtitle">Purple Neon S</p><p>A neon design with a background inspired by Skyrim logo.</p>]]></description>
+</photo>
+<photo>
+<thumbnail>s_photo_8.jpg</thumbnail>
+<filename>photo_8.jpg</filename>
+<description><![CDATA[<p class="subtitle">Christmas F</p><p>A winter's holidays themed desing.</p>]]></description>
+</photo>
+<photo>
+<thumbnail>s_photo_9.jpg</thumbnail>
+<filename>photo_9.jpg</filename>
+<description><![CDATA[<p class="subtitle">Christmas S</p><p>A winter's holidays themed desing.</p>]]></description>
+</photo>
+<photo>
+<thumbnail>s_photo_10.jpg</thumbnail>
+<filename>photo_10.jpg</filename>
+<description><![CDATA[<p class="subtitle">Beer Fadee</p><p>A design for Saint Patrick's day.</p>]]></description>
+</photo>
+<photo>
+<thumbnail>s_photo_11.jpg</thumbnail>
+<filename>photo_11.jpg</filename>
+<description><![CDATA[<p class="subtitle">Portal Kannah</p><p>A desing inspired by the famous videogame Portal.</p>]]></description>
+</photo>
+
+</photos>

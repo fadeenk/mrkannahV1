@@ -1,0 +1,2 @@
+<meta name="keywords" content="Mechatronics, Sdsu, Electronics, Arduino, Processing, Programming, Graphics, Design, Invention, Innovation, Club, Members, Teach, Tutorial, Lessons, CAD, Computer, Aided, Music, Minim, Components, Fadee, Kannah, mrkannah" />
+<meta name="description" content="The Mechatronics Website offers a variety of information available to you. By taking a look at our website, one can see the many things that we will be working throughout the school year. It can also supply you with our contact information if you feel interested in our organization." />
