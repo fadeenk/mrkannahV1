@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+
+	<item>
+		<content><![CDATA[<span class="title">Important!</span> ]]></content>
+	</item>
+	
+	<item> 
+		<content><![CDATA[<p align="left">My resume doesn’t include everything about me. It can tell you only so much about me. To learn more about me feel free to take a look on my list of awards, volunteering and biography.</p> ]]></content> 
+	</item>
+</items>

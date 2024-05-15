@@ -1,0 +1,21 @@
+<div id="form"><form id="reg" method="post" action=""><br />  
+		Name: <req>*</req> <input type="text" name="name" /><br />
+		E-mail: <req>*</req> <input type="email" name="email"><br />
+		Red Id: <req>*</req> <input type="text" name="id" /><br />
+        Experince <req>*</req> : <select name="exp">
+				<option value="Advanced">Advanced</option>
+				<option value="Intermediate">Intermediate</option>
+				<option value="Beginner">Beginner</option>
+				<option value="Novice">Novice</option>
+				</select><br />
+		Include Starter Kit? <select name="kit">
+				<option value="0">No</option>
+				<option value="1">Yes</option> 
+				</select><br />   
+		<req>*</req> = Required Field.<br /><br />
+        <center><input type="submit" name="reg" value="Register" /></center>
+     </form></div>
+Fatal error: Uncaught Error: Call to undefined function mysql_connect() in /var/www/html/samples/mechatronics/reg.php:25
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/samples/mechatronics/reg.php on line 25
